@@ -1,0 +1,20 @@
+industry_code,industry_name,employment_growth_pct_2021_2025,wage_growth_pct_2021_2025,lq_2025,strategic_group
+71,"Arts, Entertainment, and Recreation",36.14911921343712,22.528735632183906,0.76,Growing but Less Specialized
+81,Other Services,18.018541200320985,30.47091412742382,0.88,Growing but Less Specialized
+23,Construction,17.36204651266774,31.99626865671642,0.98,Growing but Less Specialized
+72,Accommodation and Food Services,13.699161489216719,20.7492795389049,0.88,Growing but Less Specialized
+54,"Professional, Scientific, and Technical Services",10.733006228644308,33.51648351648351,0.8,Growing but Less Specialized
+31-33,Manufacturing,9.753043551458912,23.395613322502033,1.5,Growing and Specialized
+62,Health Care and Social Assistance,9.08777321333375,23.772321428571427,0.94,Growing but Less Specialized
+21,"Mining, Quarrying, and Oil and Gas Extraction",7.812500000000005,30.970149253731343,1.15,Growing and Specialized
+51,Information,5.8202362609142195,21.046228710462287,0.65,Growing but Less Specialized
+48-49,Transportation and Warehousing,5.392344736798254,31.32947976878613,1.04,Growing and Specialized
+42,Wholesale Trade,4.921429177217491,24.73190348525469,1.04,Growing and Specialized
+53,Real Estate and Rental and Leasing,4.898215970880326,31.685393258426963,0.71,Growing but Less Specialized
+11,"Agriculture, Forestry, Fishing and Hunting",4.282725074050915,15.590742996345918,1.28,Growing and Specialized
+61,Educational Services,4.009522911559495,22.130013831258644,0.49,Growing but Less Specialized
+44-45,Retail Trade,1.2252303481244458,25.176056338028168,1.0,Growing but Less Specialized
+55,Management of Companies and Enterprises,1.0733229329173108,48.48851269649335,0.9,Growing but Less Specialized
+52,Finance and Insurance,-0.303265270957181,23.859465128474042,1.0,Declining and Less Specialized
+22,Utilities,-3.7898972323419016,14.956855225311601,1.07,Specialized but Declining
+56,Administrative and Support and Waste Management,-4.0724208153023875,36.51753325272068,0.88,Declining and Less Specialized

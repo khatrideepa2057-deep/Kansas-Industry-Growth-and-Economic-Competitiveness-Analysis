@@ -1,0 +1,96 @@
+industry_name,year,gdp_millions
+"Agriculture, Forestry, Fishing and Hunting",2021,6945.1
+"Agriculture, Forestry, Fishing and Hunting",2022,6821.4
+"Agriculture, Forestry, Fishing and Hunting",2023,8364.6
+"Agriculture, Forestry, Fishing and Hunting",2024,7369.1
+"Agriculture, Forestry, Fishing and Hunting",2025,8951.1
+"Mining, Quarrying, and Oil and Gas Extraction",2021,1325.6
+"Mining, Quarrying, and Oil and Gas Extraction",2022,1629.1
+"Mining, Quarrying, and Oil and Gas Extraction",2023,1322.0
+"Mining, Quarrying, and Oil and Gas Extraction",2024,1254.2
+"Mining, Quarrying, and Oil and Gas Extraction",2025,1240.8
+Utilities,2021,3307.0
+Utilities,2022,3745.4
+Utilities,2023,3895.3
+Utilities,2024,3811.2
+Utilities,2025,3793.7
+Construction,2021,7695.9
+Construction,2022,8175.3
+Construction,2023,9227.1
+Construction,2024,10160.8
+Construction,2025,10696.6
+Manufacturing,2021,26585.3
+Manufacturing,2022,33472.5
+Manufacturing,2023,36024.1
+Manufacturing,2024,36400.8
+Manufacturing,2025,36461.9
+Wholesale Trade,2021,12499.7
+Wholesale Trade,2022,13514.5
+Wholesale Trade,2023,14034.4
+Wholesale Trade,2024,14474.5
+Wholesale Trade,2025,16047.8
+Retail Trade,2021,12690.2
+Retail Trade,2022,13471.5
+Retail Trade,2023,14584.9
+Retail Trade,2024,15021.8
+Retail Trade,2025,15517.0
+Transportation and Warehousing,2021,8143.4
+Transportation and Warehousing,2022,9035.3
+Transportation and Warehousing,2023,9139.0
+Transportation and Warehousing,2024,9354.6
+Transportation and Warehousing,2025,9689.0
+Information,2021,6656.9
+Information,2022,10823.4
+Information,2023,7887.2
+Information,2024,5562.6
+Information,2025,4914.8
+Finance and Insurance,2021,10541.3
+Finance and Insurance,2022,10539.0
+Finance and Insurance,2023,11400.6
+Finance and Insurance,2024,12195.8
+Finance and Insurance,2025,13333.2
+Real Estate and Rental and Leasing,2021,23474.0
+Real Estate and Rental and Leasing,2022,28239.8
+Real Estate and Rental and Leasing,2023,28829.2
+Real Estate and Rental and Leasing,2024,29977.5
+Real Estate and Rental and Leasing,2025,31240.1
+"Professional, Scientific, and Technical Services",2021,10258.2
+"Professional, Scientific, and Technical Services",2022,11281.2
+"Professional, Scientific, and Technical Services",2023,12713.6
+"Professional, Scientific, and Technical Services",2024,13589.1
+"Professional, Scientific, and Technical Services",2025,14717.8
+Management of Companies and Enterprises,2021,3600.0
+Management of Companies and Enterprises,2022,4059.4
+Management of Companies and Enterprises,2023,4196.0
+Management of Companies and Enterprises,2024,4232.8
+Management of Companies and Enterprises,2025,4573.5
+Administrative and Support and Waste Management,2021,5866.9
+Administrative and Support and Waste Management,2022,6635.3
+Administrative and Support and Waste Management,2023,6824.5
+Administrative and Support and Waste Management,2024,7133.4
+Administrative and Support and Waste Management,2025,7417.0
+Educational Services,2021,1132.8
+Educational Services,2022,1158.0
+Educational Services,2023,1199.3
+Educational Services,2024,1353.3
+Educational Services,2025,1416.0
+Health Care and Social Assistance,2021,14510.2
+Health Care and Social Assistance,2022,15504.1
+Health Care and Social Assistance,2023,16935.4
+Health Care and Social Assistance,2024,18174.8
+Health Care and Social Assistance,2025,19321.7
+"Arts, Entertainment, and Recreation",2021,826.5
+"Arts, Entertainment, and Recreation",2022,1016.7
+"Arts, Entertainment, and Recreation",2023,1174.5
+"Arts, Entertainment, and Recreation",2024,1237.2
+"Arts, Entertainment, and Recreation",2025,1326.6
+Accommodation and Food Services,2021,4598.6
+Accommodation and Food Services,2022,5087.5
+Accommodation and Food Services,2023,6154.9
+Accommodation and Food Services,2024,6329.3
+Accommodation and Food Services,2025,6278.8
+Other Services,2021,4353.3
+Other Services,2022,4697.0
+Other Services,2023,5105.2
+Other Services,2024,5500.3
+Other Services,2025,5810.3
