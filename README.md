@@ -79,6 +79,21 @@ Construction and Agriculture also showed positive competitive effects.
 
 Some Kansas industries increased employment but grew more slowly than their national counterparts, producing negative competitive effects.
 
+## Visual Results
+
+### Employment Growth by Industry
+![Employment Growth](outputs/final_employment_growth_2021_2025.png)
+
+### GDP Growth by Industry
+![GDP Growth](outputs/final_gdp_growth_2021_2025.png)
+
+### Growth vs. Location Quotient
+![Growth vs Location Quotient](outputs/final_growth_vs_lq.png)
+
+### Shift-Share Competitive Effect
+![Shift Share Competitive Effect](outputs/final_shift_share_competitive_effect.png)
+
+
 ## Project Structure
 
 ```text
