@@ -94,6 +94,19 @@ Some Kansas industries increased employment but grew more slowly than their nati
 ![Shift Share Competitive Effect](outputs/final_shift_share_competitive_effect.png)
 
 
+## Tools & Technologies
+
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- Requests
+- python-dotenv
+- BLS QCEW API
+- BEA Regional API
+- Git & GitHub
+
+
 ## Project Structure
 
 ```text
